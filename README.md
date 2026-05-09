@@ -4,7 +4,7 @@ Bu proje, otonom araçların farklı senaryolar altındaki frenleme performansı
 
 ## PROJE EKİBİ
 * Gülenaz BAYLAN
-* **Fatma AKINCI
+* Fatma AKINCI
 * İlayda ŞEN
 
 ## Deney / Test Düzeni
