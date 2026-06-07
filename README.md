@@ -34,5 +34,26 @@ Proje sürecinde karşılaşılan teknik zorluklar ve uygulanan çözümler şun
 * Hata ve sınırlılık örnekleri simülasyona dahil edildi.
 
 ## Kullanılan Teknolojiler
-* Dil: Python
-* Kütüphaneler: Matplotlib, NumPy
+* Dil:
+  Python:Projenin mantıksal altyapısının kurulması ve simülasyon süreçlerinin yürütülmesi için temel programlama dili olarak kullanılmıştır.
+* Kütüphaneler:
+  Matplotlib:Simülasyonlardan elde edilen verilerin görselleştirilmesi, hız ve durma mesafesi arasındaki ilişkinin grafiksel olarak sunulması ve analizlerin doğruluğunun test edilmesi amacıyla kullanılmıştır.
+  NumPy:Fren mesafesi analizi, hız değişimlerinin türevsel hesaplamaları ve karesel durma mesafesi fonksiyonlarının modellenmesi süreçlerinde, yüksek performanslı sayısal veri işlemleri için kullanılmıştır.
+
+### Kurulum ve Çalıştırma
+
+Projeyi yerel bilgisayarınızda çalıştırabilmek için aşağıdaki adımları izleyebilirsiniz:
+
+**Repoyu Klonlayın:**
+   Terminal üzerinden şu komutu kullanarak projeyi bilgisayarınıza kopyalayın:
+   `git clone (https://github.com/Gulenazbaylan/python_proje1)`
+
+**Çalıştırma:**
+Gerekli kütüphaneler yüklendikten sonra, ana kod dosyanızı terminal veya bir Python IDE'si üzerinden çalıştırarak simülasyonu başlatabilirsiniz.
+
+**Gerekli Kütüphaneleri Yükleyin:**
+   Projenin düzgün çalışması için terminalde şu komutu çalıştırarak bağımlılıkları yükleyin:
+```bash
+   pip install numpy matplotlib
+
+
