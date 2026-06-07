@@ -35,10 +35,10 @@ Proje sürecinde karşılaşılan teknik zorluklar ve uygulanan çözümler şun
 
 ## Kullanılan Teknolojiler
 * Dil:
-  Python:Projenin mantıksal altyapısının kurulması ve simülasyon süreçlerinin yürütülmesi için temel programlama dili olarak kullanılmıştır.
+* Python:Projenin mantıksal altyapısının kurulması ve simülasyon süreçlerinin yürütülmesi için temel programlama dili olarak kullanılmıştır.
 * Kütüphaneler:
-  Matplotlib:Simülasyonlardan elde edilen verilerin görselleştirilmesi, hız ve durma mesafesi arasındaki ilişkinin grafiksel olarak sunulması ve analizlerin doğruluğunun test edilmesi amacıyla kullanılmıştır.
-  NumPy:Fren mesafesi analizi, hız değişimlerinin türevsel hesaplamaları ve karesel durma mesafesi fonksiyonlarının modellenmesi süreçlerinde, yüksek performanslı sayısal veri işlemleri için kullanılmıştır.
+*Matplotlib:Simülasyonlardan elde edilen verilerin görselleştirilmesi, hız ve durma mesafesi arasındaki ilişkinin grafiksel olarak sunulması ve analizlerin doğruluğunun test edilmesi amacıyla kullanılmıştır.
+* NumPy:Fren mesafesi analizi, hız değişimlerinin türevsel hesaplamaları ve karesel durma mesafesi fonksiyonlarının modellenmesi süreçlerinde, yüksek performanslı sayısal veri işlemleri için kullanılmıştır.
 
 ### Kurulum ve Çalıştırma
 
